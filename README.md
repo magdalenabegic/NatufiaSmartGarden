@@ -1,6 +1,5 @@
 # natufia-smart-garden
 Conceptual Design for Natufia Smart Garden Mobile App
-# Conceptual Design for Natufia Smart Garden Mobile App
 
 - [Introduction](https://www.notion.so/Introduction-cf3482ca3d4b499685ffc16d002a497e?pvs=21)
     - [**A Brief Explanation of Natufia Smart Garden**](https://www.notion.so/A-Brief-Explanation-of-Natufia-Smart-Garden-f84f39476d8840a1a6fba135ee91b2c4?pvs=21)
