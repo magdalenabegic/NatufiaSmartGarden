@@ -1,13 +1,13 @@
 # natufia-smart-garden
 Conceptual Design for Natufia Smart Garden Mobile App
 
-- [Introduction](/./docs/introduction.md)
-    - [**A Brief Explanation of Natufia Smart Garden**](https://www.notion.so/A-Brief-Explanation-of-Natufia-Smart-Garden-f84f39476d8840a1a6fba135ee91b2c4?pvs=21)
-- [Academic Context](https://www.notion.so/Academic-Context-389f2166335e448d8d72342c72328945?pvs=21)
-- [**Project Goals**](https://www.notion.so/Project-Goals-703712252a084ba5a95da1aad97b1a4b?pvs=21)
-- [**Why the Mobile App Matters**](https://www.notion.so/Why-the-Mobile-App-Matters-018f6b8e8ea040c8b682091e96d7e3e5?pvs=21)
-- [**Target Audience**](https://www.notion.so/Target-Audience-f6b3dbb2cdd14b83a501d1f0552c1914?pvs=21)
-- [**Screen Resolution**](./docs/screen-resolution.md)
+- [Introduction](#introduction)
+    - [**A Brief Explanation of Natufia Smart Garden**](#a-brief-explanation-of-natufia-smart-garden)
+- [Academic Context](#academic-context)
+- [**Project Goals**](#project-goals)
+- [**Why the Mobile App Matters**](#why-the-mobile-app-matters)
+- [**Target Audience**](#target-audience)
+- [**Screen Resolution**](#screen-resolution)
 
 ## Introduction
 
