@@ -1,4 +1,4 @@
-# Natufia SMart Garden
+# Natufia Smart Garden
 Conceptual Design for Natufia Smart Garden Mobile App 
 
 - [Introduction](#introduction)
